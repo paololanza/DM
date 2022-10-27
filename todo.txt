@@ -1,3 +1,23 @@
-[] id duplicati
+[x] id duplicati
 [] plot valori tweets
 [] outlier analysis
+[x] How many tweets were published by the user?
+[] How many tweets are published by the user in a given period of time?
+[x] Total number of tweets
+[x] Total number of likes and comments
+[x] Ratio between the number of tweets and the number of likes
+[] Entropy of the user
+[] Average length of the tweets per user
+[] Average number of special characters in the tweets per user
+[x] Voglio di, a pagamento
+[x] se n' i' mmondo esistesse un po' di bene e ognun si considerasse suo fratello, ci sarebbero meno pensieri e meno pene, e il mondo... ne sarebbe mmolto bbello. è molto bello
+[x] posso parla da i banco
+
+
+
+
+
+
+
+
+
