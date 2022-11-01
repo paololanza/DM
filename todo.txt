@@ -9,4 +9,6 @@
 [x] Ratio between the number of tweets and the number of likes
 [] Entropy of the user
 [x] Average length of the tweets per user
-[] Average number of special characters in the tweets per user
+[x] Average number of special characters in the tweets per user
+
+[] correggere se count > statuses_count
