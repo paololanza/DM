@@ -1,6 +1,7 @@
 [x] id duplicati
 [] plot valori tweets
 [] outlier analysis
+[x] abs colonne
 
 [x] How many tweets were published by the user?
 [] How many tweets are published by the user in a given period of time?
