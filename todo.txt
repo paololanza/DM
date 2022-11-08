@@ -11,6 +11,6 @@
 [] Entropy of the user
 [x] Average length of the tweets per user
 [x] Average number of special characters in the tweets per user
-[] Correlation analysis [IMPORTANTE]
+[] Correlation analysis [IMPORTANTE] [aggiungere all'inizio del clustering]
 
 [] correggere se count > statuses_count
