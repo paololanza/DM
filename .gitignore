@@ -4,3 +4,6 @@ OLDSTUFF
 .DS_Store
 todo.txt
 venv
+*.json
+model*
+*.png
