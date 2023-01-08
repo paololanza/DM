@@ -5,3 +5,4 @@ OLDSTUFF
 todo.txt
 venv
 *.json
+model*
